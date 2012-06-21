@@ -1,0 +1,1 @@
+void initcom1(void)	{	}
